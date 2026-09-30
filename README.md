@@ -24,7 +24,7 @@ Key steps included:
 - Checked the dataset for missing values and duplicate records.
 - Prepared the cleaned employee data for the Power BI data model.
 
-![Data Cleaning](screenshots/data_cleaning.png)
+![Data Cleaning](screenshots/data_cleaning.PNG)
 
 ## Data Modeling
 
@@ -38,7 +38,7 @@ The model consists of a central fact table connected to multiple dimension table
 - Dimension tables – used to organize attributes such as department, job, education, and job satisfaction.
 - Relationships were created between the fact and dimension tables to support filtering and analysis across the dashboard.
 
-![Star Schema](screenshots/star_schema.png)
+![Star Schema](screenshots/star_schema.PNG)
 
 ## DAX Measures
 
@@ -54,7 +54,7 @@ The measures include:
 - Average Tenure for Employees with Attrition
 
 
-![DAX Measures](screenshots/dax_measures.png)
+![DAX Measures](screenshots/Dax_Measures.PNG)
 
 ## Power BI Dashboard
 
@@ -64,13 +64,13 @@ The dashboard was designed to provide a concise overview of employee attrition a
 
 The Overview page presents the main HR metrics and provides a high-level view of employee attrition across the organization.
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](screenshots/overview.PNG)
 
 ### Root Causes & Attrition Factors
 
 The Root Causes page explores factors associated with employee attrition, including overtime, work-life balance, tenure, department, and other employee characteristics.
 
-![Root Causes Dashboard](screenshots/root_causes.png)
+![Root Causes Dashboard](screenshots/root_causes.PNG)
 
 ## Key Insights
 
